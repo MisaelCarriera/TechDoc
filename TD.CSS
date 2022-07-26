@@ -1,0 +1,43 @@
+#navbar {
+  position: fixed;
+    min-width: 290px;
+    top: 0px;
+    left: 0px;
+    width: 300px;
+    height: 100%;
+    border-right: solid;
+    float: left;
+
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+user agent stylesheet
+nav {
+    display: block;
+}
+html, body {
+    min-width: 290px;
+    color: #4d4e53;
+    background-color: #ffffff;
+    font-family: 'Open Sans', Arial, sans-serif;
+    line-height: 1.5;
+}
+a:hover {
+  color: Black;
+}
+#Body {
+  position:absolute;
+  left:550px;
+  max-width:750px;
+  display: block;
+  border:-10px;
+}
+header {
+  font-size: 30px;
+}
+
+@media (max-width: 600px) {
+
+}
